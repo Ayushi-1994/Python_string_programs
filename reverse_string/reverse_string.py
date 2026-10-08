@@ -1,0 +1,5 @@
+text = input("Enter a string: ")
+print(text[-1])
+print(text[2:8:1])
+print(text[:4:-1])
+print(text[::-1])
